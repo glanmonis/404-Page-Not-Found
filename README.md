@@ -16,36 +16,36 @@
 
 ###
 
-<h3 align="left">Screenshoott</h3>
+<h2 align="left">Screenshoott</h2>
 
 <img src="Screenshots/Login1.png" alt="404 Page Not Found" width="800"/>
 ###
 
-<h3 align="left">Deployment</h3>
+<h2 align="left">Deployment</h2>
 
 ###
 
 <p align="left">You can view live website here :</p>
-[Live Demo](https://404-page-not-found-page.netlify.app/)
+
+[Live Demo](https://404-page-not-found-page.netlify.app)
 
 ###
 
-<h3 align="left">Folder Structure</h3>
+<h2 align="left">Folder Structure</h2>
 
 ###
 
 <p align="left">|<br>
   |------- index.html<br>
   |---CSS/<br>
-  |        
-  |-----style.css<br>
+  |   |-----style.css<br>
   |<br>
   |---Images/<br>|
-    |-------bg.gif</p>
+      |-------bg.gif</p>
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
