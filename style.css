@@ -1,0 +1,70 @@
+/* Global Styles */
+body{
+    padding: 40px 0;
+  background: #FFF;
+  font-family: "Arvo", serif; /*Google font */
+  overflow: hidden; /* Prevents scroll */
+}
+
+/* 404 Background section */
+.four_zero_four_bg {
+  background-image: url(bg.gif);
+  height: 500px;
+  background-position: center;
+}
+
+ /* 404 Big Heading */
+.four_zero_four_bg h1 {
+  font-size: clamp(80px, 20vw, 180px);
+  font-weight: 800;
+  line-height: 1;
+  margin-bottom: 1rem;
+  animation: fadeInUp 1s ease-out;
+}
+
+/* Content Section */
+.contant_box_404 {
+  margin-top: -100px; /* Pull content upward */
+}
+
+/* Page Not Found heading */
+.contant_box_404 h3 {
+  font-size: clamp(24px, 5vw, 42px);
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+  letter-spacing: -0.5px;
+  animation: fadeInUp 1s ease-out 0.2s both;
+}
+
+/* Description text */
+.contant_box_404 p {
+  font-size: clamp(16px, 3vw, 20px);
+  font-weight: 300;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+  animation: fadeInUp 1s ease-out 0.4s both;
+}
+
+/* Back Button */
+.btn-back {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 20px 0;
+  border-radius: 50px;
+  background: #0F5955;
+  color: #FFF !important;
+  text-decoration: none;
+  animation: fadeInUp 1s ease-out 0.8s both;
+}
+
+/* Fade In Animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
