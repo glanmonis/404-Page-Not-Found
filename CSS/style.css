@@ -8,7 +8,7 @@ body{
 
 /* 404 Background section */
 .four_zero_four_bg {
-  background-image: url(bg.gif);
+  background-image: url("../Images/bg.gif");
   height: 500px;
   background-position: center;
 }
