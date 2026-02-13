@@ -18,7 +18,7 @@
 
 <h2 align="left">Screenshoott</h2>
 
-<img src="Images/Screenshoot.png" alt="404 Page Not Found" width="800"/>
+<img src="Images/Screenshot.png" alt="404 Page Not Found" width="800"/>
 
 
 ###
